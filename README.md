@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Laravel, PHP, JavaScript, Docker, of course F1**
 
-- 📫 How to reach me **marius.sucevan@gail.com**
+- 📫 How to reach me **marius.sucevan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
