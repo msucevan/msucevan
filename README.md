@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Vue,**
 
-- 💬 Ask me about **Laravel, PHP, JavaScript,Docker**
+- 💬 Ask me about **Laravel, PHP, JavaScript, Docker, of course F1**
 
 - 📫 How to reach me **marius.sucevan@gail.com**
 
