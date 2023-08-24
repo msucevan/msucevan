@@ -1,4 +1,4 @@
-name: Chess Games & Stats Action
+name: Chess.com Games & Stats
 
 on:
   schedule:
@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: Balastrong/chess-stats-action@main
+      - uses: Balastrong/chess-stats-action@v2.0.1
         with:
           CHESS_USERNAME: 'TortellinoAmoreMio'
