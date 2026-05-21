@@ -12,7 +12,7 @@ Senior Full Stack Developer with **6+ years** of end-to-end experience — from 
 
 I work AI-augmented: I define architecture, specs and quality bars, delegate parts of the implementation to AI agents (Claude Code, Gemini, GitHub Copilot), and stay fully accountable for security, performance and code design. This workflow has cut delivery times by up to **80%** and operational costs by **25%** — without trading off quality.
 
-- 🏆 Designed the **AI module of steel it (figureIT)** — automatic article extraction from PDF, e-mail and Excel via LLMs, integrated through a proprietary **MCP server**. Awarded **2nd place at the best Award 2025 — EuroBLECH**.
+- 🏆 Designed the **AI module of steel it (figure it)** — automatic article extraction from PDF, e-mail and Excel via LLMs, integrated through a proprietary **MCP server**. Awarded **2nd place at the best Award 2025 — EuroBLECH**.
 - 🤖 LLM & AI integrations in production: **Anthropic Claude, OpenAI GPT, Google Gemini**
 - 🧠 RAG architectures, **Model Context Protocol (MCP)** server implementation, agent-driven workflows, applied prompt engineering
 - ☁️ Serverless infrastructure on **Laravel Vapor (AWS)** and **Laravel Cloud**
