@@ -42,7 +42,7 @@ I work AI-augmented: I define architecture, specs and quality bars, delegate par
 
 ### 💼 Experience highlights
 
-- **11.2023 – present** · Senior Full Stack Developer · **figureIT AG**, Thun (Remote)
+- **11.2023 – present** · Senior Full Stack Developer · **figure it ag**, Thun (Remote)
 - **06.2020 – present** · Full Stack Developer (Freelance) · self-employed · clients incl. brussoncase.it, sunlake.it
 - **10.2022 – 06.2023** · Software Developer / IT Technical Expert · **F.I.S. — International Ski and Snowboard Federation**
 - **09.2021 – 09.2022** · Junior PHP Developer · **ImmoSky AG**, Lugano
